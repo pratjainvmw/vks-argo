@@ -2,7 +2,7 @@ apiVersion: cluster.x-k8s.io/v1beta2
 kind: Cluster
 metadata:
   name: demo-cluster-1
-  namespace: veeam
+  namespace: andaman
 spec:
   clusterNetwork:
     pods:
